@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{Ahonen:2006:FDL:1175897.1176245}
+Timo Ahonen, Abdenour Hadid, and Matti Pietikainen.
+\newblock Face description with local binary patterns: Application to face
+  recognition.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 28(12):2037--2041,
+  December 2006.
+
+\bibitem{Dalal05histogramsof}
+Navneet Dalal and Bill Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In {\em In CVPR}, pages 886--893, 2005.
+
+\bibitem{6166675}
+Dayi Gong, Shutao Li, and Yin Xiang.
+\newblock Face recognition using the weber local descriptor.
+\newblock In {\em The First Asian Conference on Pattern Recognition}, pages
+  589--592, Nov 2011.
+
+\bibitem{Rahtu:2012:LPQ:2364628.2364653}
+Esa Rahtu, Janne Heikkil\"{a}, Ville Ojansivu, and Timo Ahonen.
+\newblock Local phase quantization for blur-insensitive image analysis.
+\newblock {\em Image Vision Comput.}, 30(8):501--512, August 2012.
+
+\bibitem{Sapkota2013}
+Archana Sapkota and Terrance~E. Boult.
+\newblock Grab: generalized region assigned to binary.
+\newblock {\em EURASIP Journal on Image and Video Processing}, 2013(1):1--11,
+  2013.
+
+\bibitem{Wajid:2015:LES:2793715.2793763}
+Summrina~Kanwal Wajid and Amir Hussain.
+\newblock Local energy-based shape histogram feature extraction technique for
+  breast cancer diagnosis.
+\newblock {\em Expert Syst. Appl.}, 42(20):6990--6999, November 2015.
+
+\end{thebibliography}
